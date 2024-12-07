@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzamil Irshad</h1>
 <h3 align="center">A passionate Computer System Engineer</h3>
-
+img
+align="right"alt="coding"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxNmc5dDJxb2pkMHM2YzE2Z3Z0cnMzcTBjcXNjdWhvdnR6d3JpOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"> 
 - 📫 How to reach me **malikmuzamilirshad30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
