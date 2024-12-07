@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer System Engineer</h3>
 <img align = "right" alt= "coding" width= "300" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil673&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil673" /> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ju88zlnb96wj5cfzj88mdp0c96oikghclictgcgn&ep=v1_gifs_search&rid=200w.gif&ct=g" /> </p>
 
 - 📫 How to reach me **malikmuzamilirshad30@gmail.com**
 
@@ -18,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil673&show_icons=true&locale=en" alt="muzamil673" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil673&" alt="muzamil673" /></p>
-
