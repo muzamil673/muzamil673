@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzamil Irshad</h1>
 <h3 align="center">A passionate Computer System Engineer</h3>
-<img align = "left" alt= "coding" width= "450" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
-<img align = "centre" alt= "coding" width= "450" src="https://i.gifer.com/origin/a0/a04790ebb59b8f487bd5de480bfe7faf_w200.webp">
+<img align = "centre" alt= "coding" width= "300" src="https://i.gifer.com/origin/a0/a04790ebb59b8f487bd5de480bfe7faf_w200.webp">
 <p align="right"> <img src="https://i.gifer.com/origin/a0/a04790ebb59b8f487bd5de480bfe7faf_w200.webp" /> </p>
 <p align="left"> <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ju88zlnb96wj5cfzj88mdp0c96oikghclictgcgn&ep=v1_gifs_search&rid=200w.gif&ct=g" /> </p>
 
