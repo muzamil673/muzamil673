@@ -1,3 +1,4 @@
+<img align="right" >src= "https://www.canva.com/design/DAGYmq4S0OI/aE7cadBN496VpxXR9Zt4hw/edit?utm_content=DAGYmq4S0OI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h1 align="center">Hi 👋, I'm Muzamil Irshad</h1>
 <h3 align="center">A passionate Computer System Engineer</h3>
 <img align="right" alt= "coding" width= "250" src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxNmc5dDJxb2pkMHM2YzE2Z3Z0cnMzcTBjcXNjdWhvdnR6d3JpOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
